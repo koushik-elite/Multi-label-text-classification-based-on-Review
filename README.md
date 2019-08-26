@@ -7,6 +7,21 @@ E-commerce has revolutionized retail experience through multiple insights that i
 
 A thorough analysis of a review can provide insights to retailers and E-commerce platforms about improvements that are required for better customer satisfaction. Analysis of such million reviews are handled by the E-commerce team manually and it is a very time-consuming task. This impacts the business of retailers as they get delayed feedback.
 
-Your task is to create a <b>simplified</b> Machine Learning<b>&nbsp;</b>and/or<b>&nbsp;</b>Deep Learning&nbsp;approach to analyze the feedback &amp;&nbsp;identify the key problems that are highlighted. You are also required to curate creative visualization reports that can be shared with retailers to aid the understanding of potential improvement areas for&nbsp;sellers and the E-commerce team.
+here i created a <b>simplified</b> Machine Learning approach to analyze the feedback &amp;&nbsp;identify the key problems that are highlighted. 
 
 Dataset train.csv and test.csv
+
+I solved this problem using Machine Learning with TfidfVectorizer and DecisionTreeClassifier
+I created a Python Jupyter Notebook which contain the complete project includes data preprocessing and ML Model Training.
+
+Software Requirement
+
+Pytorch, numpy, pandas, torchvision, sklearn, scipy, matplotlib, seaborn
+
+Installation.
+
+You can install all the softwares saperately or just run this command with requirements.txt given in the zip
+
+pip install -r requirements.txt
+
+Finally create a folder name "save" in the same place where put the notepad file for saving the model temporarily
