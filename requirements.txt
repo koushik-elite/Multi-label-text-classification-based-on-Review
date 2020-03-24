@@ -7,7 +7,7 @@ aws-xray-sdk==2.4.2
 awscli==1.16.144
 Babel==2.6.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.2
 blis==0.2.4
 bokeh==1.0.4
 boto==2.49.0
