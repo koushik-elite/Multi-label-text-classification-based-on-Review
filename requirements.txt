@@ -125,7 +125,7 @@ ratelim==0.1.6
 regex==2019.4.14
 requests==2.21.0
 responses==0.10.6
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.2.0
 scikit-image==0.14.2
 scikit-learn==0.20.3
