@@ -36,7 +36,7 @@ entrypoints==0.3
 et-xmlfile==1.0.1
 flaky==3.5.3
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 ftfy==5.5.1
 future==0.17.1
 geocoder==1.38.1
