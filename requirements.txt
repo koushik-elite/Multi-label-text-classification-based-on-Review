@@ -82,7 +82,7 @@ nbformat==4.4.0
 networkx==2.2
 nltk==3.4.1
 notebook==5.7.4
-numpy==1.16.2
+numpy==1.22.0
 numpydoc==0.9.1
 olefile==0.46
 openpyxl==2.6.1
